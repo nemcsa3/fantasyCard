@@ -1,0 +1,6 @@
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe.config
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\bin\Debug\Fantasycard.exe
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\bin\Debug\Fantasycard.pdb
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\obj\Debug\Fantasycard.csprojAssemblyReference.cache
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\obj\Debug\Fantasycard.exe
+C:\Users\kiste\Desktop\shit\Aniko\Fantasycard\Fantasycard\obj\Debug\Fantasycard.pdb
